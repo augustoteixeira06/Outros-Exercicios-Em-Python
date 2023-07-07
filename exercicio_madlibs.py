@@ -1,0 +1,10 @@
+adjetivo1 = input('Digite uma caracteristica: ')
+substantivo = input('Digite um nome de pessoa: ')
+adjetivo2 = input('Digite outra caracteristica: ')
+verbo = input('Digite uma açao: ')
+adjetivo3 = input('Digite mais uma caracteristica: ')
+
+print(f'Hoje eu fui a um zoológico muito {adjetivo1}.')
+print(f'Em uma apresentação eu vi {substantivo}.')
+print(f'{substantivo} estava {adjetivo2} e {verbo}.')
+print(f'Eu fiquei {adjetivo3}.')
